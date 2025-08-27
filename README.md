@@ -27,7 +27,14 @@ It simplifies the reservation process with an elegant UI, smooth functionality, 
 
 ## 📸 Screenshots
 
-> Add some screenshots or demo GIFs of your app here to make it visually appealing.
+### 🏠 Home Page
+![Home Page](./screenshots/homepage.png)
+
+### 📅 Booking Page
+![Booking Page](./screenshots/booking.png)
+
+### 👨‍💻 Admin Dashboard
+![Admin Dashboard](./screenshots/admin-dashboard.png)
 
 ---
 
@@ -38,3 +45,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/hotel-room-booking.git
 cd hotel-room-booking
+
